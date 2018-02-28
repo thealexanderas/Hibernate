@@ -12,7 +12,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.fasterxml.classmate.AnnotationConfiguration;
 import com.fasterxml.classmate.AnnotationInclusion;
-
+// Load class
 public class Main {
 
 	public static void main(String args[]) {
